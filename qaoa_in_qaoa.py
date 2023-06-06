@@ -83,6 +83,8 @@ def qaoa_run(mu,sigma,n:int,q:float,budget:int,penalty):
     
     linear2penalty = LinearEqualityToPenalty(penalty=penalty)
     qp = linear2penalty.convert(qp)
+    global _
+    global offset
     _, offset = qp.to_ising()
     
     maxiter = 100
@@ -94,8 +96,10 @@ def qaoa_run(mu,sigma,n:int,q:float,budget:int,penalty):
     sampler = Sampler() #currently using a simulator
     # we might use a noisy simulator eventually and also use qiskit runtime later
 
+    global alphas
     alphas = [0.75]  # confidence levels to be evaluated
     # dictionaries to store optimization progress and results
+    global objectives
     objectives = {alpha: [] for alpha in alphas}  # set of tested objective functions w.r.t. alpha
     results = {}  # results of minimum eigensolver w.r.t alpha
 
@@ -111,12 +115,12 @@ def qaoa_run(mu,sigma,n:int,q:float,budget:int,penalty):
 
         qubit_op=_.primitive
         result = qaoa.compute_minimum_eigenvalue(qubit_op)
-
+        print(result)
+        print(result.best_measurement['state'])
         x=bitfield(result.best_measurement['state'],n)
-
-
         return x
-
+    
+    
 def qaoa_in_qaoa(df,nqubits):
     n=len(df.columns)
     c=0
@@ -152,6 +156,14 @@ def qaoa_in_qaoa(df,nqubits):
     sig_final=np.array(part_df[-1].cov().values)
     x=qaoa_run(mu=mu_final,sigma=sig_final,n=mu_final.shape[0],q=0.5,budget=3,penalty=2*mu_final.shape[0])
     res_sub_qaoa.append(list(x))
+    
+    temp=[]
+    temp.append(res_sub_qaoa[-1])
+    res_sub_qaoa[-1]=temp
+    
+    temp=[]
+    temp.append(list(range(len(res_sub_qaoa[-1][0]))))
+    partitions_ind.append(temp)
     
 #     res_tr=res_sub_qaoa
     for i in range(1,len(res_sub_qaoa))[::-1]:
