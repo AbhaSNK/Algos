@@ -1,0 +1,207 @@
+"","Year","Quarter","FirstDay","LastDay","Event","Type","Location","OriginalCost","NormCost2011","NormCost2014"
+"1",2014,2,2014-04-11,2014-04-16,"Cyclone","Cyclone","QLD",8.4,NA,8.487
+"2",2014,1,2014-01-11,2014-01-14,"Bushfires","Bushfire","Perth",15,NA,15.228
+"3",2013,4,2013-10-17,2013-10-27,"Bushfires","Bushfire","NSW (various locations)",183.4,NA,187.25
+"4",2013,1,2013-01-27,2013-01-30,"Inundation , Storms","Storm","Northern NSW",121.3,NA,126.749
+"5",2013,1,2013-01-21,2013-01-30,"Inundation , Storms","Storm","QLD",977,NA,1020.889
+"6",2013,1,2013-01-13,2013-01-19,"Bushfire","Bushfire","Coonabarabran",35,NA,36.572
+"7",2013,1,2013-01-04,2013-01-10,"Bushfire","Bushfire","TAS",89,NA,92.998
+"8",2012,1,2012-02-24,2012-03-16,"Flooding","Flood","NSW , VIC",131.89,NA,141.264
+"9",2012,1,2012-01-24,2012-02-15,"Flooding","Flood","SW QLD",131.432,NA,140.773
+"10",2011,4,2011-12-25,2011-12-25,"Christmas Day Storms","Storm","Melbourne",728.64,NA,781.207
+"11",2011,4,2011-11-22,2011-11-24,"Margaret River Bushfires","Bushfire","Margaret River",53.45,NA,57.306
+"12",2011,1,2011-02-05,2011-02-07,"Perth Bushfires","Bushfire","Perth and surrounds",35.128,NA,38.237
+"13",2011,1,2011-02-04,2011-02-06,"Severe Storms","Storm","Melbourne and suburbs",487.615,NA,530.771
+"14",2011,1,2011-02-02,2011-02-07,"Cyclone Yasi","Cyclone","QLD",1412.239,NA,1537.229
+"15",2011,1,2011-01-13,2011-01-18,"Flooding","Flood","VIC",126.495,NA,137.69
+"16",2010,4,2010-12-21,2011-01-14,"Flooding","Flood","QLD, Rural Toowoomba, Lockyer Valley",2387.624,NA,2636.489
+"17",2010,1,2010-03-22,NA,"Perth Storm","Storm","Perth",1053,1019,1092.515
+"18",2010,1,2010-03-06,NA,"Melbourne Storm","Storm","Melbourne",1044,1160,1243.687
+"19",2010,1,2010-03-05,NA,"West QLD flooding","Flood","QLD",46.7,49,52.535
+"20",2009,4,2009-12-31,NA,"Toodyay Bushfires","Bushfire","Toodyay WA",7.4,8,8.577
+"21",2009,2,2009-05-21,NA,"Inundation , Storm Damage","Storm","South East Queensland , Northern NSW",48,55,58.968
+"22",2009,2,2009-04-10,NA,"Flooding","Flood","Northern NSW",37,40,42.886
+"23",2009,1,2009-02-07,NA,"Victorian fires","Other","VIC",1070,1266,1357.335
+"24",2009,1,2009-01-13,NA,"Floods","Flood","Far North Queensland",19,22,23.587
+"25",2008,4,2008-11-16,NA,"Brisbane storms","Storm","Brisbane",309,355,380.611
+"26",2008,2,2008-06-03,NA,"Gas Supply Disruption Varanus Isl,","Other","Western Australia",230,279,299.128
+"27",2008,2,2008-04-20,NA,"Wind Storm","Storm","SA, TAS , VIC",65,79,84.699
+"28",2008,1,2008-02-14,NA,"Flood Storm","Flood, Storm","Mackay",410,507,543.577
+"29",2008,1,2008-01-17,NA,"Flood Storms","Flood, Storm","Emerald",70,85,91.132
+"30",2008,1,2008-01-04,NA,"Flood Storm","Flood, Storm","Northern Rivers",15,17,18.226
+"31",2007,4,2007-12-09,NA,"Severe Hailstorms","Hailstorm","Western Sydney, Blacktown",415,486,521.062
+"32",2007,4,2007-10-26,NA,"Severe Storms","Storm","Lismore Region",4,5,5.361
+"33",2007,2,2007-06-08,2007-06-10,"Severe Storm","Storm","Newcastle , Hunter Valley",1480,1742,1867.675
+"34",2007,4,2007-10-09,NA,"Hail Storm","Hailstorm","Lismore Region",97,109,116.864
+"35",2007,2,2007-06-16,NA,"Severe Storm","Storm","Gippsland VIC",15,18,19.299
+"36",2007,1,2007-03-08,NA,"Cyclone George , Jacob","Cyclone","George , Jacob - Pilbara WA",8,12,12.866
+"37",2007,1,2007-01-16,NA,"Severe Storm","Storm","Wagga Wagga NSW",4,5,5.361
+"38",2007,1,2007-01-15,NA,"Severe Storm","Storm","Nyngan NSW",2,2,2.144
+"39",2006,4,2006-10-31,NA,"Hail","Hailstorm","Newcastle , Lower Hunter Valley",51,60,64.329
+"40",2006,3,2006-08-07,NA,"Storm","Storm","South West WA",5.2,9,9.649
+"41",2006,1,2006-03-20,NA,"Cyclone Larry","Cyclone","Larry - North QLD",540,609,652.936
+"42",2006,1,2006-02-01,NA,"Bushfire","Bushfire","Widespread",14,16,17.154
+"43",2006,1,2006-01-20,NA,"Bushfire","Bushfire","North, West , East VIC",22.4,28,30.02
+"44",2005,4,2005-12-15,NA,"Storm","Storm","Hunter Valley",10,36,38.597
+"45",2005,4,2005-11-07,NA,"Flood, Storm","Flood, Storm","Central West NSW",3,4,4.289
+"46",2005,4,2005-11-06,NA,"Flood, Storm","Flood, Storm","Broken Hill",4,5,5.361
+"47",2005,4,2005-10-12,NA,"Hail","Hailstorm","Gold Coast",61,89,95.421
+"48",2005,2,2005-06-30,NA,"Flood, Storm","Flood, Storm","SE QLD",53.9,93,99.709
+"49",2005,2,2005-06-30,NA,"Flood, Storm","Flood, Storm","NE NSW",25,37,39.669
+"50",2005,2,2005-05-19,NA,"Hail","Hailstorm","Brisbane",17.6,28,30.02
+"51",2005,2,2005-05-16,NA,"Storm","Storm","Bunbury, South Perth",53.2,108,115.792
+"52",2005,1,2005-02-20,NA,"Hail, Storm","Hailstorm","Eastern Seaboard",216.7,304,325.932
+"53",2005,1,2005-01-11,NA,"Bushfire","Bushfire","Eyre Peninsula",27.7,41,43.958
+"54",2004,4,2004-12-26,NA,"Tsunami","Other","South East Asia",3,3,3.216
+"55",2004,4,2004-12-13,NA,"Hail, Storm","Hailstorm","Sydney , Lismore",32.3,46,49.319
+"56",2004,4,2004-12-13,NA,"Storm","Storm","Brisbane, Gold Coast",3.5,6,6.433
+"57",2004,1,2004-01-29,NA,"Storm","Storm","Melbourne",18,28,30.02
+"58",2004,1,2004-01-24,NA,"Hail","Hailstorm","Brisbane, SE, SW",28.5,54,57.896
+"59",2003,4,2003-12-31,NA,"Hail","Hailstorm","Melbourne",100,156,167.255
+"60",2003,3,2003-08-24,NA,"Storm","Storm","",25,39,41.814
+"61",2003,1,2003-01-18,NA,"Bushfire","Bushfire","Canberra",350,660,707.615
+"62",2003,1,2003-01-08,NA,"Bushfire","Bushfire","Eastern Border Region",12,24,25.731
+"63",2002,4,2002-12-24,NA,"Storm","Storm","South East",2,4,4.289
+"64",2002,4,2002-12-10,NA,"Storm","Storm","South East",3.4,8,8.577
+"65",2002,4,2002-10-08,NA,"Bushfire","Bushfire","Engadine , Glenorie",25,43,46.102
+"66",2002,1,2002-02-16,NA,"Storm","Storm","Sydney",10,19,20.371
+"67",2002,1,2002-01-16,NA,"Storm","Storm","Coastal Border",10,36,38.597
+"68",2001,4,2001-12-30,NA,"Storm","Storm","Sydney , Coast",30,57,61.112
+"69",2001,4,2001-12-25,NA,"Bushfire","Bushfire","Sydney , Surrounds",69,131,140.451
+"70",2001,4,2001-11-18,NA,"Storm, Tornado","Tornado","Sydney , Port Stephens",30,57,61.112
+"71",2001,1,2001-03-09,NA,"Flood, Storm","Flood, Storm","Brisbane",37,99,106.142
+"72",2001,1,2001-03-06,NA,"Flood, Storm","Flood, Storm","Nth Coast, Grafton, Kempsey",25,45,48.246
+"73",2001,1,2001-01-17,NA,"Storm","Storm","Casino",35,65,69.689
+"74",2001,1,2001-01-15,NA,"Storm","Storm","Sydney",12,24,25.731
+"75",2001,1,2001-01-06,NA,"Storm","Storm","Dubbo",15,28,30.02
+"76",2000,4,2000-11-17,NA,"Flood","Flood","Mackay",5,13,13.938
+"77",2000,3,2000-09-30,NA,"Storm","Storm","Vic Peninsula",2,4,4.289
+"78",2000,2,2000-04-20,NA,"Cyclone Paul","Cyclone","Nth WA",8.5,28,30.02
+"79",2000,2,2000-04-02,NA,"Cyclone Tessi","Cyclone","Nth QLD",15,41,43.958
+"80",2000,1,2000-03-01,NA,"Cyclone George","Cyclone","Nth WA",5,14,15.01
+"81",2000,1,2000-02-27,NA,"Cyclone Steve","Cyclone","Far Nth",11,31,33.236
+"82",2000,1,2000-02-07,NA,"Flood, Storm","Flood, Storm","Longreach",12,30,32.164
+"83",2000,1,2000-01-14,NA,"Flood, Storm","Flood, Storm","Perth",5,15,16.082
+"84",1999,4,1999-12-26,NA,"Flood, Storm","Flood, Storm","",10,23,24.659
+"85",1999,4,1999-10-24,NA,"Storm","Storm","Sydney",40,89,95.421
+"86",1999,4,1999-10-24,NA,"Flood, Storm","Flood, Storm","Wollongong",5,11,11.794
+"87",1999,2,1999-04-14,NA,"Hail","Hailstorm","Sydney",1700,4296,4605.932
+"88",1999,1,1999-03-22,NA,"Cyclone Vance","Cyclone","Exmouth, Onslow",35,108,115.792
+"89",1999,1,1999-03-20,NA,"Flood","Flood","Moora",4,12,12.866
+"90",1999,1,1999-02-12,NA,"Cyclone Rona","Cyclone","Nth QLD",4,14,15.01
+"91",1999,1,1999-02-07,NA,"Flood, Storm","Flood, Storm","SE QLD",2,7,7.505
+"92",1998,4,1998-12-26,NA,"Flood, Storm","Flood, Storm","Melbourne",10,25,26.804
+"93",1998,4,1998-12-16,NA,"Hail","Hailstorm","Brisbane",76,254,272.325
+"94",1998,4,1998-11-14,NA,"Storm","Storm","Brisbane",7,23,24.659
+"95",1998,4,1998-10-13,NA,"Storm","Storm","SEQLD",23,80,85.772
+"96",1998,3,1998-08-17,NA,"Flood, Storm","Flood, Storm","Wollongong",40,97,103.998
+"97",1998,3,1998-08-06,NA,"Storm","Storm","Sydney",10,25,26.804
+"98",1998,2,1998-06-24,NA,"Flood","Flood","East Gippsland",1.3,3,3.216
+"99",1998,2,1998-06-23,NA,"Storm","Storm","Hunter Valley",12,39,41.814
+"100",1998,2,1998-04-09,NA,"Flood, Storm","Flood, Storm","Sydney",10,28,30.02
+"101",1998,1,1998-02-04,NA,"Storm","Storm","Sydney",12,34,36.453
+"102",1998,1,1998-01-26,NA,"Flood","Flood","Katherine",70,201,215.501
+"103",1998,1,1998-01-10,NA,"Flood, Storm","Flood, Storm","Townsville",71,245,262.675
+"104",1998,1,1998-01-05,NA,"Storm","Storm","Nyngan",12,27,28.948
+"105",1997,4,1997-12-21,NA,"Bushfire","Bushfire","Menai",3,8,8.577
+"106",1997,4,1997-12-19,NA,"Storm","Storm","Sydney",40,113,121.152
+"107",1997,4,1997-11-16,NA,"Storm","Storm","Grafton",5,13,13.938
+"108",1997,1,1997-03-31,NA,"Hail","Hailstorm","SE",10,41,43.958
+"109",1997,1,1997-03-22,NA,"Cyclone Justin","Cyclone","Cairns",8,27,28.948
+"110",1997,1,1997-02-21,NA,"Bushfire","Bushfire","Ferny Creek",10,29,31.092
+"111",1996,4,1996-12-11,NA,"Hail","Hailstorm","Singleton",49,149,159.749
+"112",1996,4,1996-12-04,NA,"Storm","Storm","Brisbane",4,4,4.289
+"113",1996,4,1996-11-23,NA,"Storm","Storm","Coffs Harbour",20,67,71.834
+"114",1996,4,1996-11-14,NA,"Hail","Hailstorm","Tamworth",10,28,30.02
+"115",1996,3,1996-09-29,NA,"Hail","Hailstorm","Armidale , Tamworth",104,288,308.778
+"116",1996,3,1996-08-31,NA,"Storm","Storm","Sydney",10,30,32.164
+"117",1996,2,1996-05-03,NA,"Flood","Flood","SE QLD",31,134,143.667
+"118",1996,2,1996-04-05,NA,"Cyclone Olivia","Cyclone","Pannawonica",2,6,6.433
+"119",1996,1,1996-01-31,NA,"Storm","Storm","Sydney",14,43,46.102
+"120",1995,4,1995-11-06,NA,"Hail","Hailstorm","SE QLD",40,166,177.976
+"121",1995,1,1995-02-25,NA,"Cyclone Bobby","Cyclone","Kalgoolie",11,48,51.463
+"122",1994,4,1994-11-20,NA,"Storm","Storm","Sydney",29,100,107.214
+"123",1994,3,1994-08-06,NA,"Earthquake","Earthquake","Cessnock",37.2,115,123.297
+"124",1994,2,1994-05-23,NA,"Storm","Storm","Perth",37,187,200.491
+"125",1994,1,1994-01-16,NA,"Bushfire","Bushfire","Eastern Seaboard",59.1,215,230.511
+"126",1993,4,1993-12-14,NA,"Storm","Storm","Melbourne",12,44,47.174
+"127",1993,4,1993-10-03,NA,"Flood","Flood","Benalla , Shepparton",12,44,47.174
+"128",1992,1,1992-02-12,NA,"Hail","Hailstorm","Sydney",118,441,472.816
+"129",1992,1,1992-02-08,NA,"Flood, Storm","Flood, Storm","Perth",4,22,23.587
+"130",1991,4,1991-12-20,NA,"Flood","Flood","Melbourne , Ballarat",24,90,96.493
+"131",1991,4,1991-10-16,NA,"Bushfire","Bushfire","Central Coast",12,54,57.896
+"132",1991,2,1991-06-07,NA,"Flood, Storm","Flood, Storm","SE NSW",15,57,61.112
+"133",1991,1,1991-01-24,NA,"Hail","Hailstorm","Orbost",12,32,34.309
+"134",1991,1,1991-01-22,NA,"Hail","Hailstorm","Adelaide",30,112,120.08
+"135",1991,1,1991-01-21,NA,"Storm","Storm","Sydney",138.4,525,562.876
+"136",1990,4,1990-12-27,NA,"Bushfire","Bushfire","",10,32,34.309
+"137",1990,4,1990-12-26,NA,"Flood, Storm","Flood, Storm","Rockhampton to Cairns",32,121,129.729
+"138",1990,3,1990-08-03,NA,"Storm","Storm","Sydney",12,46,49.319
+"139",1990,2,1990-04-18,NA,"Flood","Flood","NSW/QLD Nyngan , Charlivlle",30,99,106.142
+"140",1990,1,1990-03-18,NA,"Hail","Hailstorm","Sydney",319,1297,1390.571
+"141",1990,1,1990-02-10,NA,"Hail","Hailstorm","Sydney",10,41,43.958
+"142",1990,1,1990-02-07,NA,"Hail","Hailstorm","Dubbo",9,35,37.525
+"143",1990,1,1990-02-03,NA,"Cyclone Nancy","Cyclone","Sydney to Brisbane",33,197,211.212
+"144",1989,4,1989-12-28,NA,"Earthquake","Earthquake","Newcastle",862,3240,3473.747
+"145",1989,4,1989-11-16,NA,"Hail","Hailstorm","Ballarat",20,81,86.844
+"146",1989,2,1989-04-04,NA,"Cyclone Aivu","Cyclone","Townsville to Mackay",26,138,147.956
+"147",1989,1,1989-02-07,NA,"Flood, Storm","Flood, Storm","Melbourne",17,74,79.339
+"148",1988,4,1988-11-30,NA,"Flood, Storm","Flood, Storm","Melbourne",11,48,51.463
+"149",1988,3,1988-08-22,NA,"Storm","Storm","SW WA",8,60,64.329
+"150",1988,2,1988-05-21,NA,"Cyclone Herbie","Cyclone","Carnarvon to Denham",20,117,125.441
+"151",1988,2,1988-04-30,NA,"Flood","Flood","Sydney",25,139,149.028
+"152",1988,2,1988-04-01,NA,"Flood","Flood","Alice Springs",10,68,72.906
+"153",1987,4,1987-11-09,NA,"Flood","Flood","Melbourne",8,40,42.886
+"154",1987,3,1987-07-29,NA,"Flood, Storm","Flood, Storm","East Perth",2,17,18.226
+"155",1987,1,1987-02-01,NA,"Bushfire","Bushfire","Southern",7,32,34.309
+"156",1986,4,1986-12-06,NA,"Storm","Storm","Adelaide",10,50,53.607
+"157",1986,4,1986-10-03,NA,"Hail","Hailstorm","Western Sydney",104,638,684.028
+"158",1986,3,1986-08-05,NA,"Flood, Storm","Flood, Storm","Sydney",35,215,230.511
+"159",1986,1,1986-02-01,NA,"Cyclone Winifred","Cyclone","Cairns to Ingham",40,205,219.79
+"160",1986,1,1986-01-21,NA,"Hail","Hailstorm","Orange",25,160,171.543
+"161",1985,1,1985-01-18,NA,"Hail","Hailstorm","Brisbane",180,2063,2211.834
+"162",1985,3,1985-09-10,NA,"Hail","Hailstorm","Melbourne",10,63,67.545
+"163",1984,4,1984-11-05,NA,"Flood","Flood","Sydney",80,578,619.699
+"164",1984,3,1984-09-01,NA,"Bushfire","Bushfire","Central , Southern",25,179,191.914
+"165",1984,1,1984-03-19,NA,"Cyclone Kathy","Cyclone","Borroloola",5,35,37.525
+"166",1983,1,1983-02-16,NA,"Bushfire Ash Wednesday","Bushfire","",138,1489,1596.423
+"167",1983,1,1983-02-16,NA,"Bushfire Ash Wednesday","Bushfire","",38,307,329.148
+"168",1982,4,1982-11-15,NA,"Storm","Storm","Melbourne",10,84,90.06
+"169",1981,1,1981-02-07,NA,"Flood, Storm","Flood, Storm","Dalby",20,205,219.79
+"170",1980,4,1980-12-16,NA,"Hail","Hailstorm","Brighton",15,238,255.17
+"171",1980,4,1980-12-15,NA,"Cyclone Carol","Cyclone","Brisbane",7.5,119,127.585
+"172",1980,1,1980-02-20,NA,"Bushfire","Bushfire","Adelaide Hills",13,132,141.523
+"173",1980,1,1980-02-01,NA,"Cyclone Dean","Cyclone","Pilbara",2.5,27,28.948
+"174",1980,1,1980-01-10,NA,"Cyclone Amy","Cyclone","Port Headland",2.7,31,33.236
+"175",1979,4,1979-11-14,NA,"Hail","Hailstorm","Port Broughton",10,92,98.637
+"176",1979,2,1979-06-02,NA,"Earthquake","Earthquake","Cadoux",3.5,38,40.741
+"177",1979,1,1979-03-13,NA,"Cyclone Hazel","Cyclone","Kimberley , Pilbara Coast",15,202,216.573
+"178",1978,2,1978-04-04,NA,"Cyclone Alby","Cyclone","Perth",13,265,284.118
+"179",1978,1,1978-03-01,NA,"Storm","Storm","North Coast",5,94,100.782
+"180",1978,1,1978-02-10,NA,"Storm","Storm","Sydney, Newcastle, Wollongong",15,215,230.511
+"181",1978,1,1978-01-21,NA,"Flood, Storm","Flood, Storm","Sydney",7,101,108.287
+"182",1977,1,1977-03-01,NA,"Flood","Flood","Clarence River",7,98,105.07
+"183",1977,1,1977-02-12,NA,"Bushfire","Bushfire","Western Districts",9,101,108.287
+"184",1977,1,1977-02-05,NA,"Storm","Storm","Tongala, Echuca",4,70,75.05
+"185",1977,1,1977-01-21,NA,"Storm","Storm","Sydney",15,244,261.603
+"186",1976,4,1976-12-19,NA,"Cyclone Harry","Cyclone","",15,310,332.365
+"187",1976,4,1976-11-10,NA,"Hail","Hailstorm","Sydney",40,650,696.894
+"188",1976,1,1976-02-22,NA,"Cyclone Beth","Cyclone","Bundaberg",3,40,42.886
+"189",1976,1,1976-01-09,NA,"Hail","Hailstorm","Toowoomba",12,282,302.345
+"190",1975,4,1975-12-07,NA,"Cyclone Thelma","Cyclone","Port Headland",20,398,426.713
+"191",1975,1,1975-03-09,NA,"Flood","Flood","Sydney",15,339,363.457
+"192",1974,4,1974-12-24,NA,"Cyclone Tracy","Cyclone","Darwin",200,4090,4385.07
+"193",1974,2,1974-05-25,NA,"Hail","Hailstorm","Sydney",20,509,545.721
+"194",1974,2,1974-05-15,NA,"Flood","Flood","NE VIC",4,117,125.441
+"195",1974,2,1974-04-24,NA,"Flood","Flood","Sydney",20,509,545.721
+"196",1974,1,1974-03-13,NA,"Cyclone Zoe","Cyclone","Port Macquarie to Brisbane",2,171,183.337
+"197",1974,1,1974-01-25,NA,"Cyclone, W,a Flood","Cyclone","Brisbane",68,2645,2835.822
+"198",1973,1,1973-03-04,NA,"Cyclone Leah","Cyclone","Northern Australia",30,1492,1599.639
+"199",1972,1,1972-02-11,NA,"Cyclone Daisy","Cyclone","Brisbane , the Gold Coast",2,116,124.369
+"200",1971,4,1971-12-24,NA,"Cyclone Althea","Cyclone","Townsville",25,648,694.749
+"201",1971,1,1971-02-01,NA,"Flood","Flood","Gippsland",2,53,56.824
+"202",1970,3,1970-09-01,NA,"Flood","Flood","North",5,157,168.327
+"203",1970,1,1970-01-18,NA,"Cyclone Ada","Cyclone","Bowen , Mackay",12,1001,1073.216
+"204",1968,4,1968-10-14,NA,"Earthquake","Earthquake","Meckering",1.5,57,61.112
+"205",1967,4,1967-12-19,NA,"Hail","Hailstorm","Brisbane",5,396,424.569
+"206",1967,1,1967-02-08,NA,"Bushfire","Bushfire","Hobart",14,610,654.008
